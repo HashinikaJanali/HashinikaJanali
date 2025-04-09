@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hashinika</h1>
 <h3 align="center">Passionate About Web Development & Problem-Solving | Undergraduate at SLIIT</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hashinikajanali&label=Profile%20views&color=0e75b6&style=flat" alt="hashinikajanali" /> </p>
-
 - 🔭 I’m currently working on [Pabasara-Products](https://github.com/nethmi0121/Pabasara-Products.git)
 
 - 📫 How to reach me **hashinikajanali@gmail.com**
