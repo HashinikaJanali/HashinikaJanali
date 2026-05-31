@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██╗  ██╗ █████╗ ███████╗██╗  ██╗██╗███╗   ██╗██╗██╗  ██╗ █████╗
-██║  ██║██╔══██╗██╔════╝██║  ██║██║████╗  ██║██║██║ ██╔╝██╔══██╗
-███████║███████║███████╗███████║██║██╔██╗ ██║██║█████╔╝ ███████║
-██╔══██║██╔══██║╚════██║██╔══██║██║██║╚██╗██║██║██╔═██╗ ██╔══██║
-██║  ██║██║  ██║███████║██║  ██║██║██║ ╚████║██║██║  ██╗██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+# 👋 Hi, I'm Hashinika!
 
 ### 💻 Web Developer · Problem Solver · SLIIT Undergraduate
 
@@ -35,6 +28,9 @@ fun_fact: I debug with coffee ☕ and curiosity 🔍
 
 <a href="https://github.com/nethmi0121/Pabasara-Products.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nethmi0121&repo=Pabasara-Products&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/HashinikaJanali/Campus-Food-Ordering-And-Delivery-System.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HashinikaJanali&repo=Campus-Food-Ordering-And-Delivery-System&theme=tokyonight&hide_border=true" />
 </a>
 
 ---
