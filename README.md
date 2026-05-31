@@ -24,16 +24,6 @@ fun_fact: I debug with coffee ☕ and curiosity 🔍
 
 ---
 
-## 🚀 Current Project
-
-<a href="https://github.com/nethmi0121/Pabasara-Products.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nethmi0121&repo=Pabasara-Products&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/HashinikaJanali/Campus-Food-Ordering-And-Delivery-System.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HashinikaJanali&repo=Campus-Food-Ordering-And-Delivery-System&theme=tokyonight&hide_border=true" />
-</a>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -102,7 +92,5 @@ fun_fact: I debug with coffee ☕ and curiosity 🔍
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nethmi0121&color=6C63FF&style=flat-square&label=Profile+Views)
-
-*"Code is like humor. When you have to explain it, it's bad."* 😄
 
 </div>
